@@ -1,0 +1,4 @@
+#name [condition] [version]
+#condition    ==, >=, <=, >, <
+#tensorflow==1.8.1
+naie
