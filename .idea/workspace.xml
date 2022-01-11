@@ -48,6 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1641909893759</updated>
       <workItem from="1641909895573" duration="2132000" />
+      <workItem from="1641914499121" duration="839000" />
     </task>
     <servers />
   </component>
@@ -64,6 +65,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="451" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1641911901379">
